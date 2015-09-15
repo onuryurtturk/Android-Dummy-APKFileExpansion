@@ -1,3 +1,3 @@
-# Android-Dummy-APKFileExtension
+# Android-Dummy-APKFileExpansion
 
-This repo about extension of Android Apk files. 
+This repo about expansion of Android Apk files. 
